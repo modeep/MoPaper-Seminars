@@ -1,11 +1,12 @@
 # MoDeep Seminar-Paper-Lists
 
 ### Deep Learning Basics
-1. [Batch Normalization - Sergey Ioffe et al.](https://arxiv.org/pdf/1502.03167.pdf)
+1. [Batch Normalization - Sergey et al.](https://arxiv.org/pdf/1502.03167.pdf)
 
 ### CNN / Image Recognition Models
 
 ### Object Detection Models
+1. [Faster R-CNN - Shaoqing et al.](https://arxiv.org/pdf/1506.01497.pdf)
 
 ### Generative Models
 1. [Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
