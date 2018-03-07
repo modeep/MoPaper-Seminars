@@ -1,6 +1,7 @@
 # MoDeep Seminar-Paper-Lists
 
 ### Deep Learning Basics
+1. [Batch Normalization - Sergey Ioffe et al.](https://arxiv.org/pdf/1502.03167.pdf)
 
 ### CNN / Image Recognition Models
 
