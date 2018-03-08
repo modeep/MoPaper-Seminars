@@ -7,8 +7,8 @@
 ### Object Detection Models
 
 ### Generative Models
-1. ![Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
-2. ![Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661.pdf)
+1. [Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
+2. [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661.pdf)
 
 ### Reinforcement Learnings
 
