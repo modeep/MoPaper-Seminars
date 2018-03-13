@@ -25,3 +25,4 @@
 
 ### Repository References
 1. [Deep Learning Papers Reading Loadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+2. [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
