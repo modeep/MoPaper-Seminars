@@ -11,6 +11,7 @@
 ### Generative Models
 1. [Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
 2. [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661.pdf)
+3. [Deep Convolutional Generative Adversarial Networks - Alec Radford et al.](https://arxiv.org/pdf/1511.06434.pdf)
 
 ### Reinforcement Learnings
 
