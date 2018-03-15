@@ -12,6 +12,9 @@
 1. [Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
 2. [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661.pdf)
 3. [Deep Convolutional Generative Adversarial Networks - Alec Radford et al.](https://arxiv.org/pdf/1511.06434.pdf)
+4. [Conditional Generative Adversarial Nets Mehdi Mirza et al.](https://arxiv.org/pdf/1411.1784.pdf)
+5. [Image-to-Image Translation with Conditional Adversarial Networks - Phillip Isola et al.](https://arxiv.org/pdf/1611.07004.pdf)
+6. [Cycle-Consistent Adversarial Networks - Jun-Yan Zhu et al.](https://arxiv.org/pdf/1703.10593.pdf)
 
 ### Reinforcement Learnings
 
