@@ -21,7 +21,8 @@
 6. [Cycle-Consistent Adversarial Networks - Jun-Yan Zhu et al.](https://arxiv.org/pdf/1703.10593.pdf)
 7. [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation - Yunjey Choi et al.](https://arxiv.org/pdf/1711.09020.pdf)
 
- 
+### Mathmatics
+1. [A Primer on Optima Transport in NIPS 2017 - Marco Cuturi](https://nips.cc/Conferences/2017/Schedule?showEvent=8736)
 
 ### Reinforcement Learnings
 
