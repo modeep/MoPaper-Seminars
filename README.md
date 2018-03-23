@@ -1,7 +1,8 @@
 # MoDeep Seminar-Paper-Lists
 
 ### Deep Learning Basics
-1. [Batch Normalization - Sergey et al.](https://arxiv.org/pdf/1502.03167.pdf)
+1. [Adam : A Method for Stochastic Optimization - Kingma et al.](https://arxiv.org/pdf/1412.6980.pdf)
+2. [Batch Normalization - Sergey et al.](https://arxiv.org/pdf/1502.03167.pdf)
 
 ### CNN / Image Recognition Models
 1. [Visualizing and Understanding Convolutional Networks - Matthew et al.](https://arxiv.org/abs/1311.2901)
@@ -31,11 +32,15 @@
 2. [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661.pdf)
 3. [Deep Convolutional Generative Adversarial Networks - Alec et al.](https://arxiv.org/pdf/1511.06434.pdf)
 4. [Conditional Generative Adversarial Nets - Mehdi et al.](https://arxiv.org/pdf/1411.1784.pdf)
-5. [Image-to-Image Translation with Conditional Adversarial Networks - Phillip et al.](https://arxiv.org/pdf/1611.07004.pdf)
-6. [Cycle-Consistent Adversarial Networks - Jun-Yan et al.](https://arxiv.org/pdf/1703.10593.pdf)
-7. [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation - Yunjey Choi et al.](https://arxiv.org/pdf/1711.09020.pdf) 
-8. [Learning from Simulated and Unsupervised Images through Adversarial Training - Shrivastava et al.](https://arxiv.org/pdf/1612.07828.pdf)
-9. [Are GANs create equal? A Large-Scale Study - Lucic et al.](https://arxiv.org/pdf/1711.10337.pdf)
+5. [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets - Chen et al.](https://arxiv.org/pdf/1606.03657.pdf)
+6. [Image-to-Image Translation with Conditional Adversarial Networks - Phillip et al.](https://arxiv.org/pdf/1611.07004.pdf)
+7. [Cycle-Consistent Adversarial Networks - Jun-Yan et al.](https://arxiv.org/pdf/1703.10593.pdf)
+8. [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation - Yunjey Choi et al.](https://arxiv.org/pdf/1711.09020.pdf) 
+9. [Learning from Simulated and Unsupervised Images through Adversarial Training - Shrivastava et al.](https://arxiv.org/pdf/1612.07828.pdf)
+10. [Are GANs create equal? A Large-Scale Study - Lucic et al.](https://arxiv.org/pdf/1711.10337.pdf)
+11. [Energy-based Generative Adversarial Network - Zhao et al.](https://arxiv.org/pdf/1609.03126.pdf)
+12. [Wasserstein GAN - Arjovsky et al.](https://arxiv.org/pdf/1701.07875.pdf)
+13. [BEGAN: Boundary Equilibrium Generative Adversarial Networks - Berthelot et al.](https://arxiv.org/pdf/1703.10717.pdf)
 
 ### Mathmatics
 1. [A Primer on Optima Transport in NIPS 2017 - Marco Cuturi](https://nips.cc/Conferences/2017/Schedule?showEvent=8736)
