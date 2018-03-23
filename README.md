@@ -21,11 +21,15 @@
 ### Generative Models
 1. [Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
 2. [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661.pdf)
+<<<<<<< HEAD
 3. [Deep Convolutional Generative Adversarial Networks - Alec et al.](https://arxiv.org/pdf/1511.06434.pdf)
 4. [Conditional Generative Adversarial Nets - Mehdi et al.](https://arxiv.org/pdf/1411.1784.pdf)
 5. [Image-to-Image Translation with Conditional Adversarial Networks - Phillip et al.](https://arxiv.org/pdf/1611.07004.pdf)
 6. [Cycle-Consistent Adversarial Networks - Jun-Yan et al.](https://arxiv.org/pdf/1703.10593.pdf)
 7. [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation - Yunjey Choi et al.](https://arxiv.org/pdf/1711.09020.pdf) 
+
+### Mathmatics
+1. [A Primer on Optima Transport in NIPS 2017 - Marco Cuturi](https://nips.cc/Conferences/2017/Schedule?showEvent=8736)
 
 ### Reinforcement Learnings
 1. [Asynchronous Methods for Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1602.01783)
