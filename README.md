@@ -7,6 +7,7 @@
 
 ### Object Detection Models
 1. [Faster R-CNN - Shaoqing et al.](https://arxiv.org/pdf/1506.01497.pdf)
+2. [You Only Look Once:Unified, Real-Time Object Detection, YOLO](https://arxiv.org/pdf/1506.02640.pdf)
 
 ### Generative Models
 1. [Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
@@ -15,6 +16,9 @@
 4. [Conditional Generative Adversarial Nets Mehdi Mirza et al.](https://arxiv.org/pdf/1411.1784.pdf)
 5. [Image-to-Image Translation with Conditional Adversarial Networks - Phillip Isola et al.](https://arxiv.org/pdf/1611.07004.pdf)
 6. [Cycle-Consistent Adversarial Networks - Jun-Yan Zhu et al.](https://arxiv.org/pdf/1703.10593.pdf)
+7. [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation - Yunjey Choi et al.](https://arxiv.org/pdf/1711.09020.pdf)
+
+ 
 
 ### Reinforcement Learnings
 
