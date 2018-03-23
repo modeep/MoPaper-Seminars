@@ -5,6 +5,9 @@
 
 ### CNN / Image Recognition Models
 
+#### Style Transfer
+1. [Understanding Deep Image Representations by Inverting Them](https://arxiv.org/abs/1412.0035)
+
 ### Object Detection Models
 1. [Faster R-CNN - Shaoqing et al.](https://arxiv.org/pdf/1506.01497.pdf)
 2. [You Only Look Once:Unified, Real-Time Object Detection, YOLO](https://arxiv.org/pdf/1506.02640.pdf)
