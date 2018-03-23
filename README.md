@@ -12,7 +12,7 @@
 5. [ImageNet Classification with Deep Convolutional Neural Networks - Krizhevsky et al.](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 6. [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 7. [Dynamic Routing Between Capsules - Sabour et al.](https://arxiv.org/pdf/1710.09829.pdf)
-8. [DeepVisual-SemanticAlignmentsforGeneratingImageDescriptions - Andrej Karpathy et al.](https://arxiv.org/pdf/1412.2306v2.pdf)
+8. [Deep Visual-Semantic Alignments for Generating Image Descriptions - Karpathy et al.](https://arxiv.org/pdf/1412.2306v2.pdf)
 9. [Spatial Transformer Networks - Max Jaderberg et al.](https://arxiv.org/pdf/1506.02025.pdf)
 
 
