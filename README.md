@@ -26,6 +26,7 @@
 6. [Mask R-CNN - He et al.](https://arxiv.org/pdf/1703.06870.pdf)
 7. [Light-Head R-CNN : In Defense of Two-Stage Object Detector - Li et al.](https://arxiv.org/pdf/1711.07264.pdf)
 8. [Focal Loss for Dense Object Detection - Lin et al.](https://arxiv.org/pdf/1708.02002.pdf)
+9. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Howard et al.](https://arxiv.org/pdf/1704.04861.pdf)
 
 ### Generative Models
 1. [Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
@@ -41,9 +42,11 @@
 11. [Energy-based Generative Adversarial Network - Zhao et al.](https://arxiv.org/pdf/1609.03126.pdf)
 12. [Wasserstein GAN - Arjovsky et al.](https://arxiv.org/pdf/1701.07875.pdf)
 13. [BEGAN: Boundary Equilibrium Generative Adversarial Networks - Berthelot et al.](https://arxiv.org/pdf/1703.10717.pdf)
+14. [Pixel Recurrent Neural Networks - Oord et al.](https://arxiv.org/pdf/1601.06759v2.pdf)
 
 ### Mathmatics
 1. [A Primer on Optima Transport in NIPS 2017 - Marco Cuturi](https://nips.cc/Conferences/2017/Schedule?showEvent=8736)
+
 ### Reinforcement Learnings
 1. [Asynchronous Methods for Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1602.01783)
 2. [Playing Atari with Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1312.5602)
