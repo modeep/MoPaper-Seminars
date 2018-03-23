@@ -9,8 +9,10 @@
 3. [Rethinking the Inception Architecture for Computer Vision - Szegedy et al.](https://arxiv.org/abs/1512.00567)
 4. [Deep Residual Learning for Image Recognition - Kaiming et al.](https://arxiv.org/abs/1512.03385)
 5. [ImageNet Classification with Deep Convolutional Neural Networks - Krizhevsky et al.](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+6. [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 
 #### Style Transfer
+<<<<<<< HEAD
 1. [Understanding Deep Image Representations by Inverting Them - Mahendran](https://arxiv.org/abs/1412.0035)
 2. [A Neural Algorithm of Artistic Style - Gatys](https://arxiv.org/abs/1508.06576)
 
