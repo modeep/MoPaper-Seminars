@@ -11,6 +11,9 @@
 5. [ImageNet Classification with Deep Convolutional Neural Networks - Krizhevsky et al.](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 6. [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 7. [Dynamic Routing Between Capsules - Sabour et al.](https://arxiv.org/pdf/1710.09829.pdf)
+8. [DeepVisual-SemanticAlignmentsforGeneratingImageDescriptions - Andrej Karpathy et al.](https://arxiv.org/pdf/1412.2306v2.pdf)
+9. [Spatial Transformer Networks - Max Jaderberg et al.](https://arxiv.org/pdf/1506.02025.pdf)
+
 
 #### Style Transfer
 1. [Understanding Deep Image Representations by Inverting Them - Mahendran](https://arxiv.org/abs/1412.0035)
@@ -42,11 +45,12 @@
 ### Reinforcement Learnings
 1. [Asynchronous Methods for Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1602.01783)
 2. [Playing Atari with Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1312.5602)
-
+x
 ### Sequencial Models / NLP
 1. [Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling - Hasim Sak et al.](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)
 2. [Sequence to sequence learning with neural networks - Sutskever et al.](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 3. [Very Deep Convolutional Networks for Text Classification - Conneau et al.](https://arxiv.org/pdf/1606.01781.pdf)
+4. [Deep Learning applied to NLP - Marc Moreno Lopez et al.](https://arxiv.org/pdf/1703.03091.pdf)
 
 ### Tip / Tutorial Papers
 1. [Awesome RNN](https://github.com/kjw0612/awesome-rnn)
