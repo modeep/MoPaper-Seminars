@@ -40,7 +40,8 @@
 
 ### Tip / Tutorial Papers
 1. [Awesome RNN](https://github.com/kjw0612/awesome-rnn)
-2. [Awesome Public DataSets](https://github.com/awesomedata/awesome-public-datasets) 
+2. [Awesome Public DataSets](https://github.com/awesomedata/awesome-public-datasets)
+3. [NIPS tutorial - Generative Adversarial Networks(PDF/Video) - Ian Goodfellow](https://nips.cc/Conferences/2016/Schedule?showEvent=6202)  
 
 ### Writing Rules
 1. 새로운 논문을 추가할 때는 다른 논문들과 규칙을 맞추어서 작성.
