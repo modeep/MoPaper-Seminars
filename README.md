@@ -12,7 +12,6 @@
 6. [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 
 #### Style Transfer
-<<<<<<< HEAD
 1. [Understanding Deep Image Representations by Inverting Them - Mahendran](https://arxiv.org/abs/1412.0035)
 2. [A Neural Algorithm of Artistic Style - Gatys](https://arxiv.org/abs/1508.06576)
 
@@ -23,7 +22,6 @@
 ### Generative Models
 1. [Auto-Encoding Variational Bayes - Kingma et al.](https://arxiv.org/pdf/1312.6114.pdf)
 2. [Generative Adversarial Nets - Goodfellow et al.](https://arxiv.org/pdf/1406.2661.pdf)
-<<<<<<< HEAD
 3. [Deep Convolutional Generative Adversarial Networks - Alec et al.](https://arxiv.org/pdf/1511.06434.pdf)
 4. [Conditional Generative Adversarial Nets - Mehdi et al.](https://arxiv.org/pdf/1411.1784.pdf)
 5. [Image-to-Image Translation with Conditional Adversarial Networks - Phillip et al.](https://arxiv.org/pdf/1611.07004.pdf)
@@ -38,6 +36,7 @@
 2. [Playing Atari with Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1312.5602)
 
 ### Sequencial Models
+1. [Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling - Hasim Sak et al.](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)
 
 ### Tip / Tutorial Papers
 1. [Awesome RNN](https://github.com/kjw0612/awesome-rnn)
