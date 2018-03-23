@@ -7,6 +7,7 @@
 
 #### Style Transfer
 1. [Understanding Deep Image Representations by Inverting Them](https://arxiv.org/abs/1412.0035)
+2. [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
 
 ### Object Detection Models
 1. [Faster R-CNN - Shaoqing et al.](https://arxiv.org/pdf/1506.01497.pdf)
