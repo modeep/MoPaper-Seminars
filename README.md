@@ -47,6 +47,11 @@
 13. [BEGAN: Boundary Equilibrium Generative Adversarial Networks - Berthelot et al.](https://arxiv.org/pdf/1703.10717.pdf)
 14. [Pixel Recurrent Neural Networks - Oord et al.](https://arxiv.org/pdf/1601.06759v2.pdf)
 
+### Speech Synthesis
+1. [Tacotron: Towards End-to-End Speech Synthesis - Yuxuan Wang et al.](https://arxiv.org/abs/1703.10135)
+2. [Deep Voice 2: Multi-Speaker Neural Text-to-Speech - Sercan Arik et al.](https://arxiv.org/abs/1705.08947)
+3. [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning - Wei Ping et al.](https://arxiv.org/abs/1710.07654)
+
 ### Mathmatics
 1. [A Primer on Optima Transport in NIPS 2017 - Marco Cuturi](https://nips.cc/Conferences/2017/Schedule?showEvent=8736)
 
