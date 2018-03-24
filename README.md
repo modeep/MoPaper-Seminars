@@ -49,8 +49,9 @@
 
 ### Speech Synthesis
 1. [Tacotron: Towards End-to-End Speech Synthesis - Yuxuan Wang et al.](https://arxiv.org/abs/1703.10135)
-2. [Deep Voice 2: Multi-Speaker Neural Text-to-Speech - Sercan Arik et al.](https://arxiv.org/abs/1705.08947)
-3. [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning - Wei Ping et al.](https://arxiv.org/abs/1710.07654)
+2. [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions - Jonathan Shen et al.](https://arxiv.org/abs/1712.05884)
+3. [Deep Voice 2: Multi-Speaker Neural Text-to-Speech - Sercan Arik et al.](https://arxiv.org/abs/1705.08947)
+4. [Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning - Wei Ping et al.](https://arxiv.org/abs/1710.07654)
 
 ### Mathmatics
 1. [A Primer on Optima Transport in NIPS 2017 - Marco Cuturi](https://nips.cc/Conferences/2017/Schedule?showEvent=8736)
