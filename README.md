@@ -1,8 +1,8 @@
 # MoDeep Seminar-Paper-Lists
 
 ### Deep Learning Basics
-1. [Adam : A Method for Stochastic Optimization - Kingma et al.](https://arxiv.org/pdf/1412.6980.pdf)
-2. [Batch Normalization - Sergey et al.](https://arxiv.org/pdf/1502.03167.pdf)
+1. [Adam: A Method for Stochastic Optimization - Kingma et al.](https://arxiv.org/pdf/1412.6980.pdf)
+2. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - Sergey et al.](https://arxiv.org/pdf/1502.03167.pdf)
 
 ### CNN / Image Recognition Models
 1. [Visualizing and Understanding Convolutional Networks - Matthew et al.](https://arxiv.org/abs/1311.2901)
@@ -15,19 +15,18 @@
 8. [Deep Visual-Semantic Alignments for Generating Image Descriptions - Karpathy et al.](https://arxiv.org/pdf/1412.2306v2.pdf)
 9. [Spatial Transformer Networks - Max Jaderberg et al.](https://arxiv.org/pdf/1506.02025.pdf)
 
-
 #### Style Transfer
 1. [Understanding Deep Image Representations by Inverting Them - Mahendran](https://arxiv.org/abs/1412.0035)
 2. [A Neural Algorithm of Artistic Style - Gatys](https://arxiv.org/abs/1508.06576)
 
 ### Object Detection Models
-1. [Faster R-CNN - Shaoqing et al.](https://arxiv.org/pdf/1506.01497.pdf)
-2. [You Only Look Once:Unified, Real-Time Object Detection, YOLO - Redmon et al.](https://arxiv.org/pdf/1506.02640.pdf)
+1. [Faster R-CNN: Towards Real-Time Onject Detection with Region Proposal Networks - Shaoqing et al.](https://arxiv.org/pdf/1506.01497.pdf)
+2. [You Only Look Once: Unified, Real-Time Object Detection, YOLO - Redmon et al.](https://arxiv.org/pdf/1506.02640.pdf)
 3. [Fully Convolutional Networks for Semantic Segmentation - Long et al.](https://arxiv.org/pdf/1411.4038.pdf)
-4. [SSD : Single Shot Multibox Detector - Liu et al.](https://arxiv.org/pdf/1512.02325.pdf)
+4. [SSD: Single Shot Multibox Detector - Liu et al.](https://arxiv.org/pdf/1512.02325.pdf)
 5. [Deformable Convolutional Network - Dai et al.](https://arxiv.org/pdf/1703.06211.pdf)
 6. [Mask R-CNN - He et al.](https://arxiv.org/pdf/1703.06870.pdf)
-7. [Light-Head R-CNN : In Defense of Two-Stage Object Detector - Li et al.](https://arxiv.org/pdf/1711.07264.pdf)
+7. [Light-Head R-CNN: In Defense of Two-Stage Object Detector - Li et al.](https://arxiv.org/pdf/1711.07264.pdf)
 8. [Focal Loss for Dense Object Detection - Lin et al.](https://arxiv.org/pdf/1708.02002.pdf)
 9. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Howard et al.](https://arxiv.org/pdf/1704.04861.pdf)
 
@@ -59,7 +58,7 @@
 ### Reinforcement Learnings
 1. [Asynchronous Methods for Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1602.01783)
 2. [Playing Atari with Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1312.5602)
-x
+
 ### Sequencial Models / NLP
 1. [Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling - Hasim Sak et al.](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)
 2. [Sequence to sequence learning with neural networks - Sutskever et al.](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
