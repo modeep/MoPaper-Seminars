@@ -65,6 +65,7 @@ x
 2. [Sequence to sequence learning with neural networks - Sutskever et al.](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 3. [Very Deep Convolutional Networks for Text Classification - Conneau et al.](https://arxiv.org/pdf/1606.01781.pdf)
 4. [Deep Learning applied to NLP - Marc Moreno Lopez et al.](https://arxiv.org/pdf/1703.03091.pdf)
+5. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling - Junyoung Chung et al.](https://arxiv.org/abs/1412.3555)
 
 ### Tip / Tutorial Papers
 1. [Awesome RNN](https://github.com/kjw0612/awesome-rnn)
