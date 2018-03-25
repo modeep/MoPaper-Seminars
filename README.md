@@ -58,6 +58,7 @@
 ### Reinforcement Learnings
 1. [Asynchronous Methods for Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1602.01783)
 2. [Playing Atari with Deep Reinforcement Learning - Mnih et al.](https://arxiv.org/abs/1312.5602)
+3. [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
 
 ### Sequencial Models / NLP
 1. [Long Short-Term Memory Recurrent Neural Network Architectures for Large Scale Acoustic Modeling - Hasim Sak et al.](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/43905.pdf)
@@ -71,6 +72,9 @@
 2. [Awesome Public DataSets](https://github.com/awesomedata/awesome-public-datasets)
 3. [NIPS tutorial - Generative Adversarial Networks(PDF/Video) - Ian Goodfellow](https://nips.cc/Conferences/2016/Schedule?showEvent=6202)  
 4. [A guide to convolution arithmetic for deep learning - Vincent Dumoulin and Francesco Visin](https://arxiv.org/pdf/1603.07285.pdf)
+5. [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+6. [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+7. [A course on reinforcement learning in the wild](https://github.com/yandexdataschool/Practical_RL)
 
 ### Writing Rules
 1. 새로운 논문을 추가할 때는 다른 논문들과 규칙을 맞추어서 작성.
