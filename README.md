@@ -1,6 +1,8 @@
 # MoPaper - The Storage of DL Papers / Tutorials Reviews
 
-![Registered: 0](https://img.shields.io/badge/Registered-0-blue.svg?style=flat-square)
+![Registered: 2](https://img.shields.io/badge/Registered-2-blue.svg?style=flat-square)
+![Done: 0](https://img.shields.io/badge/Done-0-brightgreen.svg?style=flat-square)
+![Left: 2](https://img.shields.io/badge/Left-2-yellow.svg?style=flat-square)
 
 ## Summary
 
@@ -32,3 +34,10 @@ Collaborator들은 각자 발표할 주제(논문, 튜토리얼 등)를 저장�
 
 ## Contents
 
+### Deep Learning Basics
+
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift - Sergey et al.](https://arxiv.org/pdf/1502.03167.pdf) - 임재민
+
+### CNN / Image Recognition Models
+
+* [Deep Residual Learning for Image Recognition - Kaiming et al.](https://arxiv.org/abs/1512.03385) - 임재민
