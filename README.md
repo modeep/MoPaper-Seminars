@@ -1,5 +1,7 @@
 # MoPaper - The Storage of DL Papers / Tutorials Reviews
 
+![Registered: 0](https://img.shields.io/badge/Registered-0-blue.svg?style=flat-square)
+
 ## Summary
 
 이 저장소는 MoDeep에서 스터디를 진행했던, 또는 진행할 예정의 논문, 튜토리얼 등을 모아둔 저장소입니다.
