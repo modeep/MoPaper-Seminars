@@ -1,8 +1,8 @@
 # MoPaper - The Storage of DL Papers / Tutorials Reviews
 
-![Registered: 2](https://img.shields.io/badge/Registered-2-blue.svg?style=flat-square)
-![Done: 0](https://img.shields.io/badge/Done-0-brightgreen.svg?style=flat-square)
-![Left: 2](https://img.shields.io/badge/Left-2-yellow.svg?style=flat-square)
+![Registered: 8](https://img.shields.io/badge/Registered-8-blue.svg?style=flat-square)
+![Done: 4](https://img.shields.io/badge/Done-4-brightgreen.svg?style=flat-square)
+![Left: 4](https://img.shields.io/badge/Left-4-yellow.svg?style=flat-square)
 
 ## Summary
 
@@ -32,7 +32,7 @@ Collaborator들은 각자 발표할 주제(논문, 튜토리얼 등)를 저장�
 * [김수민(soomin0327)](https://github.com/soomin0327)
 * [김성현(devArtoria)](https://github.com/devArtoria)
 
-## Contents
+## Registered Contents
 
 ### Deep Learning Basics
 
@@ -41,3 +41,14 @@ Collaborator들은 각자 발표할 주제(논문, 튜토리얼 등)를 저장�
 ### CNN / Image Recognition Models
 
 * [Deep Residual Learning for Image Recognition - Kaiming et al.](https://arxiv.org/abs/1512.03385) - 임재민
+* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf) - 임재민
+* [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf) - 임재민
+
+## Finished Contents
+
+### CNN / Image Recognition Models
+
+* [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf) - 임재민
+* [Efficient Graph-Based Image Segmentation](http://people.cs.uchicago.edu/~pff/papers/seg-ijcv.pdf) - 임재민
+* [Selective Search for Object Recognition](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf) - 임재민
+* [YOLO Presentation](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/edit?usp=sharing) - 임재민
