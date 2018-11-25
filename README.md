@@ -1,7 +1,7 @@
 # MoPaper - The Storage of DL Papers / Tutorials Reviews
 
-![Registered: 8](https://img.shields.io/badge/Registered-8-blue.svg?style=flat-square)
-![Done: 4](https://img.shields.io/badge/Done-4-brightgreen.svg?style=flat-square)
+![Registered: 9](https://img.shields.io/badge/Registered-9-blue.svg?style=flat-square)
+![Done: 5](https://img.shields.io/badge/Done-5-brightgreen.svg?style=flat-square)
 ![Left: 4](https://img.shields.io/badge/Left-4-yellow.svg?style=flat-square)
 
 ## Summary
