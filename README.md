@@ -56,8 +56,10 @@ Collaborator들은 각자 발표할 주제(논문, 튜토리얼 등)를 저장�
 * [Selective Search for Object Recognition](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf) - 임재민
 * [YOLO Presentation](https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/edit?usp=sharing) - 임재민
 * [YOLO 분석](https://curt-park.github.io/2017-03-26/yolo/)
-* [](http://arclab.tistory.com/166) - 임재민
+* [[논문 요약11] Selective Search for Object Recognition](http://arclab.tistory.com/166) - 임재민
 
 ## Production
 
 ### Object Detection
+
+* [Common Understanding about YOLO](https://www.slideshare.net/ssuserea05e4/common-understanding-about-yolo-125713439) - 임재민
