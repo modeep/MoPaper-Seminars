@@ -1,7 +1,7 @@
 # MoPaper - The Storage of DL Papers / Tutorials Reviews
 
 ![Contents: 9](https://img.shields.io/badge/Contents-9-orange.svg?style=plastic)
-![Review: 1](https://img.shields.io/badge/Review-1-brightgreen.svg?style=plastic)
+![Reviews: 1](https://img.shields.io/badge/Reviews-1-brightgreen.svg?style=plastic)
 ![Collaborators: 1](https://img.shields.io/badge/Collaborators-1-blue.svg?style=plastic)
 
 ## Summary
@@ -16,6 +16,13 @@ Collaborator들은 각자 발표할 주제(논문, 튜토리얼 등)를 저장�
 * 발표를 진행하기 위하여 미리 Collaborator들이 원활하게 스터디에 참여할 수 있도록 고지하여 주십시오.
 * 스터디 참여 인원들이 모두 이해하고 응용할 수 있도록 토의 활동을 진행해주십시오.
 * 현업 활동 등을 위하여 모든 과정은 존댓말을 이용할 수 있도록 하십시오.
+
+## Table of Contents
+
+1. [Collaborators](#Collaborators)
+2. [Registered Contents](#Registered-Contents)
+3. [Finished Contents](#Finished-Contents)
+4. [Productions](#Productions)
 
 ## Collaborators
 
@@ -58,7 +65,7 @@ Collaborator들은 각자 발표할 주제(논문, 튜토리얼 등)를 저장�
 * [YOLO 분석](https://curt-park.github.io/2017-03-26/yolo/)
 * [[논문 요약11] Selective Search for Object Recognition](http://arclab.tistory.com/166) - 임재민
 
-## Production
+## Productions
 
 ### Object Detection
 
